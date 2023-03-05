@@ -56,16 +56,26 @@ body {
 #name {
   font-size: 40px;
   padding:10px;
-  font-family: cambria;
+  font-family: 'Phudu', cursive;
+}
+
+#contact {
+  text-align: right;
 }
 
 #contactinfo {
   font-size: 20px;
-  font-family: cambria;
+  font-family: oswald;
+}
+
+hr {
+  border-top: 1.5px solid #5453A6;
+  border-radius: 10px;
+  width: 95%;
 }
 
 #education {
   clear: both;
   font-size: 20px;
-  font-family: calibri;
+  font-family: oswald;
 }
