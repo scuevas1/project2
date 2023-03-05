@@ -12,6 +12,7 @@ body {
   float: left;
   width: 100%;
   position: relative;
+  font-size: 19px;
 }
 
 #header-navbar ul {
@@ -38,10 +39,6 @@ body {
 
 #header-navbar ul li a:hover {
   background-color: #5453A6;
-}
-
-#pages {
-  font-size: 19px;
 }
 
 #img {
