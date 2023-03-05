@@ -53,14 +53,15 @@ body {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 
+#headers {
+  font-size: 25px;
+  font-family: oswald;
+}
+
 #name {
   font-size: 40px;
   padding:10px;
   font-family: 'Phudu', cursive;
-}
-
-#contact {
-  text-align: right;
 }
 
 #contactinfo {
@@ -76,6 +77,21 @@ hr {
 
 #education {
   clear: both;
-  font-size: 20px;
+  font-size: 18px;
+  font-family: oswald;
+}
+
+#certificates {
+  font-size: 18px;
+  font-family: oswald;
+}
+
+#internships {
+  font-size: 18px;
+  font-family: oswald;
+}
+
+#awards {
+  font-size: 18px;
   font-family: oswald;
 }
