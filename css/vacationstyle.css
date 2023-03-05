@@ -3,7 +3,7 @@ body {
 }
 
 #header-navbar {
-  background-color: #81e677;
+  background-color: #329928;
   overflow: hidden;
 }
 
@@ -37,7 +37,7 @@ body {
 }
 
 #header-navbar ul li a:hover {
-  background-color: #329928;
+  background-color: #81e677;
 }
 
 * {
@@ -76,7 +76,8 @@ body {
 #name {
   font-size: 40px;
   padding:20px;
-  font-family: 'Phudu', cursive;
+  font-family: georgia;
+  text-align: center;
 }
 
 .img {
