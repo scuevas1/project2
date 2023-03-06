@@ -83,24 +83,12 @@ body {
   font-family: oswald;
 }
 
-#education {
-  font-size: 20px;
-  font-family: oswald;
+#educationcerts {
+  font-size: 16px;
 }
 
-#certificates {
-  font-size: 20px;
-  font-family: oswald;
-}
-
-#internships {
-  font-size: 20px;
-  font-family: oswald;
-}
-
-#awards {
-  font-size: 20px;
-  font-family: oswald;
+#internshipsawards {
+  font-size: 16px;
 }
 
 img {
