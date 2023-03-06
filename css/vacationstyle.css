@@ -1,9 +1,9 @@
 body {
-  background-color:#edebce;
+  background-color:#d8e5ed;
 }
 
 #header-navbar {
-  background-color: #329928;
+  background-color: #059694;
   overflow: hidden;
 }
 
@@ -37,7 +37,7 @@ body {
 }
 
 #header-navbar ul li a:hover {
-  background-color: #81e677;
+  background-color: #78cccb;
 }
 
 * {
@@ -73,7 +73,7 @@ body {
   background-color: #f1f1f1;
 }
 
-.name {
+#name {
   font-size: 40px;
   padding:20px;
   font-family: georgia;
