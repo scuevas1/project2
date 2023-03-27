@@ -2,12 +2,9 @@
 
 /*navigation bar for all three pages*/
 #header-navbar {
-  background-color: #5453A6;
+  background-color: #059694;
   overflow: hidden;
-}
-
-#header-navbar ul li a:hover {
-  background-color: #bebef7;
+  font-family: oswald;
 }
 
 #navbar-container {
@@ -37,6 +34,10 @@
   padding: 19px 20px;
   color: #fff;
   text-decoration: none;
+}
+
+#header-navbar ul li a:hover {
+  background-color: #78cccb;
 }
 
 /*CSS for page 1*/
@@ -90,10 +91,12 @@
 
 #educationcerts {
   font-size: 18px;
+  font-family: oswald;
 }
 
 #internshipsawards {
   font-size: 18px;
+  font-family: oswald;
 }
 
 .img1 {
@@ -146,7 +149,7 @@ hr {
 /*CSS for page 2*/
 .vacation-background {
   background-color: #d8e5ed;
-  margin: 20px;
+  margin: 10px;
 }
 
 * {
@@ -182,14 +185,14 @@ hr {
   background-color: #f1f1f1;
 }
 
-#name2 {
+#name3 {
   font-size: 40px;
   padding:20px;
   font-family: georgia;
   text-align: center;
 }
 
-.img2 {
+.img3 {
   padding: 12px;
   width: 300px;
   height:350px;
@@ -199,33 +202,49 @@ hr {
   font-size: 25px;
 }
 
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #008CBA;
-}
-
-.container:hover .overlay {
-  opacity: 1;
-}
-
-.text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  text-align: center;
-}
 /*end of css page 2*/
+
+/*CSS for page 3*/
+
+.cookbook-background {
+  background-color: #d8e5ed;
+  margin: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.columnn {
+  float: left;
+  height: 700px;
+}
+
+.leftt{
+  width: 40%;
+  background-color:#c9c9c3;
+}
+
+.middlee {
+  width: 60%;
+  background-color:#c9c9c3;
+}
+
+.roww:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.img4 {
+  width: 600px;
+  height:700px;
+}
+
+#name4 {
+  font-size: 50px;
+  text-align:center;
+  font-family: 'Phudu', cursive;
+}
+/*end of css page 3*/
 

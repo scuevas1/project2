@@ -5,6 +5,7 @@ body {
 #header-navbar {
   background-color: #059694;
   overflow: hidden;
+  font-family: oswald;
 }
 
 #navbar-container {
