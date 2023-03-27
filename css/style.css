@@ -63,21 +63,46 @@
 .index-background {
   background-color: #cbcbf2;
 }
-
-#contactinfo {
-  font-size: 18px;
-  font-family: oswald;
+#header-navbar {
+  background-color: #5453A6;
+  overflow: hidden;
 }
 
-#educationcerts {
-  font-size: 18px;
+#navbar-container {
+  float: left;
+  width: 100%;
+  position: relative;
+  font-size: 20px;
 }
 
-#internshipsawards {
-  font-size: 18px;
+#header-navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
 }
-.header {
-  font-size: 40px;
+
+#header-navbar ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+  display: block;
+}
+#header-navbar ul li a {
+  display: block;
+  padding: 19px 20px;
+  color: #fff;
+  text-decoration: none;
+}
+
+#header-navbar ul li a:hover {
+  background-color: #bebef7;
+}
+
+#headers {
+  font-size: 25px;
   font-family: oswald;
 }
 
@@ -126,7 +151,7 @@
   font-size: 18px;
 }
 
-img {
+.img1 {
   width:300px;
   height: 330px;
 }
