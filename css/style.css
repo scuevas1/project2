@@ -1,8 +1,6 @@
-body {
-  background-color: #cbcbf2;
-  color: black;
-}
+/*CSS for all pages*/
 
+/*navigation bar for all three pages*/
 #header-navbar {
   background-color: #5453A6;
   overflow: hidden;
@@ -41,6 +39,38 @@ body {
   background-color: #bebef7;
 }
 
+/*CSS general*/
+.center-text{
+  text-align: center;
+}
+.border{
+  border-top: 1px solid black;
+  padding-top: 10px;
+}
+.float-left{
+  float: left;
+}
+.float-right{
+  float:right;
+}
+.clear{
+  clear: both;
+}
+/*end of CSS general*/
+
+/*CSS for page 1*/
+#contactinfo {
+  font-size: 18px;
+  font-family: oswald;
+}
+
+#educationcerts {
+  font-size: 18px;
+}
+
+#internshipsawards {
+  font-size: 18px;
+}
 #headers {
   font-size: 25px;
   font-family: oswald;
@@ -91,7 +121,7 @@ body {
   font-size: 18px;
 }
 
-img1 {
+img {
   width:300px;
   height: 345px;
 }
@@ -133,3 +163,4 @@ img1 {
 hr {
   border: 2px solid #5453A6;
 }
+/*end of css page 1*/
