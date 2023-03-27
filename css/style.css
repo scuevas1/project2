@@ -59,6 +59,11 @@
 /*end of CSS general*/
 
 /*CSS for page 1*/
+
+.index-background {
+  background-color: #cbcbf2;
+}
+
 #contactinfo {
   font-size: 18px;
   font-family: oswald;
@@ -71,8 +76,8 @@
 #internshipsawards {
   font-size: 18px;
 }
-#headers {
-  font-size: 25px;
+.header {
+  font-size: 40px;
   font-family: oswald;
 }
 
@@ -123,7 +128,7 @@
 
 img {
   width:300px;
-  height: 345px;
+  height: 330px;
 }
 
 .column2 {
