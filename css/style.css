@@ -6,6 +6,10 @@
   overflow: hidden;
 }
 
+#header-navbar ul li a:hover {
+  background-color: #bebef7;
+}
+
 #navbar-container {
   float: left;
   width: 100%;
@@ -35,9 +39,6 @@
   text-decoration: none;
 }
 
-#header-navbar ul li a:hover {
-  background-color: #bebef7;
-}
 
 /*CSS general*/
 .center-text{
@@ -62,46 +63,10 @@
 
 .index-background {
   background-color: #cbcbf2;
-}
-#header-navbar {
-  background-color: #5453A6;
-  overflow: hidden;
+  margin: 10px;
 }
 
-#navbar-container {
-  float: left;
-  width: 100%;
-  position: relative;
-  font-size: 20px;
-}
-
-#header-navbar ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  position: relative;
-  left: 50%;
-  float: left;
-}
-
-#header-navbar ul li {
-  float: left;
-  position: relative;
-  right: 50%;
-  display: block;
-}
-#header-navbar ul li a {
-  display: block;
-  padding: 19px 20px;
-  color: #fff;
-  text-decoration: none;
-}
-
-#header-navbar ul li a:hover {
-  background-color: #bebef7;
-}
-
-#headers {
+#header {
   font-size: 25px;
   font-family: oswald;
 }
