@@ -43,7 +43,7 @@
 /*CSS for page 1*/
 
 .index-background {
-  background-color: #cbcbf2;
+  background-color: #a1d1d0;
   margin: 10px;
 }
 
@@ -139,7 +139,7 @@
 }
 
 hr {
-  border: 2px solid #5453A6;
+  border: 2px solid #059694;
 }
 .clear{
   clear: both;
@@ -148,7 +148,7 @@ hr {
 
 /*CSS for page 2*/
 .vacation-background {
-  background-color: #d8e5ed;
+  background-color: #e3b884;
   margin: 10px;
 }
 
@@ -202,12 +202,15 @@ hr {
   font-size: 25px;
 }
 
+a:hover {
+  opacity: 0.3;
+}
 /*end of css page 2*/
 
 /*CSS for page 3*/
 
 .cookbook-background {
-  background-color: #d8e5ed;
+  background-color: #bcd4e3;
   margin: 10px;
 }
 
@@ -222,12 +225,12 @@ hr {
 
 .leftt{
   width: 40%;
-  background-color:#c9c9c3;
+  background-color:#b8c6cf;
 }
 
 .middlee {
   width: 60%;
-  background-color:#c9c9c3;
+  background-color:#b8c6cf;
 }
 
 .roww:after {
