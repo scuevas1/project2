@@ -67,9 +67,9 @@
 
 .column {
   float: left;
-  padding: 10px;
   height: 19em;
-  padding: 2 15px;
+  margin: 0 auto;
+  padding: 15px;
 }
 
 .left{
@@ -77,15 +77,15 @@
 }
 
 .right {
-  width: 22%;
+  width: 27%;
 }
 
 .middle {
-  width: 47%;
+  width: 40%;
 }
 
 .row1 {
-  margin: 3 -10px;
+  margin: 0 -5px;
 }
 
 .row1:after {
@@ -110,9 +110,9 @@
 }
 
 .img1 {
-  width:18em;
+  width:20em;
   height: 18em;
-  object-fit: cover;
+  object-fit: initial;
 }
 
 .column2 {
