@@ -73,15 +73,15 @@
 }
 
 .left{
-  width: 25%;
+  width: 30%;
 }
 
 .right {
-  width: 27%;
+  width: 25%;
 }
 
 .middle {
-  width: 40%;
+  width: 45%;
 }
 
 .row1 {
@@ -110,8 +110,8 @@
 }
 
 .img1 {
-  width:18em;
-  height: 18em;
+  width:15em;
+  height: 17em;
   object-fit: initial;
 }
 
