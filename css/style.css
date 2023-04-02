@@ -63,7 +63,7 @@
 .column {
   float: left;
   padding: 10px;
-  height: 350px;
+  height: 19em;
 }
 
 .left{
@@ -100,8 +100,8 @@
 }
 
 .img1 {
-  width:300px;
-  height: 330px;
+  width:17em;
+  height: 18em;
 }
 
 .column2 {
@@ -194,8 +194,8 @@ hr {
 
 .img3 {
   padding: 12px;
-  width: 300px;
-  height:350px;
+  width: 18em;
+  height:22em;
 }
 
 .city {
