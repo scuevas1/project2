@@ -76,3 +76,47 @@ img {
   text-align:center;
   font-family: 'Phudu', cursive;
 }
+
+
+
+
+.cookbook-background {
+  background-color: #bcd4e3;
+  margin: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.columnn {
+  float: left;
+  height: 700px;
+}
+
+.leftt{
+  width: 40%;
+  background-color:#b8c6cf;
+}
+
+.middlee {
+  width: 60%;
+  background-color:#b8c6cf;
+}
+
+.roww:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.img4 {
+  width: 600px;
+  height:700px;
+}
+
+#name4 {
+  font-size: 50px;
+  text-align:center;
+  font-family: 'Phudu', cursive;
+}

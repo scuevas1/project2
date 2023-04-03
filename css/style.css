@@ -68,10 +68,9 @@
 .column {
   float: left;
   height: 19em;
-  width: 33%;
-  padding:10px;
-  margin-right: -65px;
-  margin-left: 35px;
+  width: 27%;
+  padding:20px;
+  margin-left: 10px;
 }
 
 .left{
@@ -234,16 +233,12 @@ a:hover {
 .columnn {
   float: left;
   height: 700px;
-}
-
-.leftt{
-  width: 40%;
+  width:50%;
   background-color:#b8c6cf;
 }
 
-.middlee {
-  width: 60%;
-  background-color:#b8c6cf;
+.roww{
+  font-size:17px;
 }
 
 .roww:after {
@@ -253,7 +248,7 @@ a:hover {
 }
 
 .img4 {
-  width: 600px;
+  width: 730px;
   height:700px;
 }
 
