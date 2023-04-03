@@ -70,6 +70,8 @@
   height: 19em;
   width: 33%;
   padding:10px;
+  margin-right: -65px;
+  margin-left: 35px;
 }
 
 .left{
