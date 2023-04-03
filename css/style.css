@@ -250,6 +250,7 @@ a:hover {
 .img4 {
   width: 730px;
   height:700px;
+  object-fit: initial;
 }
 
 #name4 {
