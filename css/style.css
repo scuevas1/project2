@@ -233,12 +233,16 @@ a:hover {
 .columnn {
   float: left;
   height: 700px;
-  width:50%;
+}
+
+.leftt{
+  width: 40%;
   background-color:#b8c6cf;
 }
 
-.roww{
-  font-size:17px;
+.middlee {
+  width: 60%;
+  background-color:#b8c6cf;
 }
 
 .roww:after {
@@ -248,9 +252,8 @@ a:hover {
 }
 
 .img4 {
-  width: 730px;
+  width: 600px;
   height:700px;
-  object-fit: initial;
 }
 
 #name4 {
