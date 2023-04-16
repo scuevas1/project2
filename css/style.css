@@ -111,8 +111,8 @@
 }
 
 .img1 {
-  width:18em;
-  height: 18em;
+  width:17em;
+  height: 19em;
   object-fit: initial;
 }
 
@@ -138,6 +138,15 @@
     display: block;
     margin-bottom: 20px;
   }
+}
+
+@media screen and (max-width: 800px) {
+  .column {
+    width: 100%; 
+    display: block;
+    margin-bottom: 20px;
+  }
+  .img1{object-fit: fill;}
 }
 
 .card {
@@ -187,9 +196,17 @@ hr {
     width: 100%;
     display: block;
     margin-bottom: 10px;
+    background-color:#dedfe0;
   }
 }
 
+@media screen and (max-width: 800px) {
+  body {
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: #b1cdfa;
+  }
+}
 .card3 {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   padding: 16px;
@@ -263,3 +280,24 @@ a:hover {
 }
 /*end of css page 3*/
 
+/*page 4 css*/
+
+#wrapper {
+  width: 950px;
+  height: 700px;
+  background-color: #86c496;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+#canvas {
+  width: 800px;
+  height: 600px;
+  background-color: #fddc9d;
+  margin: 30px auto;
+}
+
+.map-background {
+  background-color: #bcd4e3;
+  margin: 10px;
+}
